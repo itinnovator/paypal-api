@@ -4,7 +4,7 @@
   "useAtomicWrites": false,
   "deleteLocal": false,
   "hostname": "ftp.itinnovator.in",
-  "target": "/projects/myphp-app",
+  "target": "/projects/paypal-api",
   "ignore": [
     ".remote-sync.json",
     ".git/**"
